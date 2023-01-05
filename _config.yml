@@ -1,14 +1,15 @@
 # main text of home
-name: AP Surf Clases
-bio: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo.  Rodeados de buena gente, buena energía y un servicio que te va a sorprender.
+name: Escuela Surf AP
+bio: "- Coaching personalizado 🎥 <br/>- Clases de surf 🏄🏽‍♂️ <br/>- Todos los Niveles <br/> - Todos los dias (8am / 18pm) ⏰ <br/> - Instructores ISA <br/>- 12 AÑOS DE EXPERIENCIA <br/>"
+
 
 # twitter summary info
-description: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo.  Rodeados de buena gente, buena energía y un servicio que te va a sorprender.
+description: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo. <br/><br/>Ofrecemos clases para todos los niveles y proveemos los equipos necesarios, desde peques hasta adultos.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://apsurf.com/wp-content/uploads/2022/06/cropped-logo-2022-ap.png
+external-image: false
+picture: assets/images/logo.png
 
 url: https://vmrodriguez90.github.io/ap-surf
 permalink: /:title/
@@ -21,14 +22,14 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't have any of social below, comment the line
-# facebook:
+facebook: apsurftrips
 # twitter:
-instagram: johndoe
+instagram: escueladesurf.ap
 # pinterest:
-linkedin: johndoe
+# linkedin: johndoe
 # youtube: 
 # spotify:  
-github: johndoe
+#github: johndoe
 # gitlab: 
 # lastfm: 
 # stackoverflow: 
@@ -37,7 +38,7 @@ github: johndoe
 # medium: 
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: johndoe@gmail.com
+email: apsurftrips@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
