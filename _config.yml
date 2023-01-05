@@ -1,14 +1,15 @@
 # main text of home
-name: AP Surf Clases
-bio: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo. <br/><br/>Ofrecemos clases para todos los niveles y proveemos los equipos necesarios, desde peques hasta adultos. <br/><br/>Horarios de atencion de 8 a 12 y de 15 a 18
+name: Escuela Surf AP
+bio: "- Coaching personalizado 🎥 <br/>- Clases de surf 🏄🏽‍♂️ <br/>- Todos los Niveles <br/> - Todos los dias (8am / 18pm) ⏰ <br/> - Instructores ISA <br/>- 12 AÑOS DE EXPERIENCIA <br/>"
+
 
 # twitter summary info
 description: AP es una empresa que nace con la intención de acercar el surf a todos ofreciendo una experiencia única, donde el protagonista sos vos. Contamos con un staff de profesionales en todas las áreas que te van a acompañar en este increíble mundo. <br/><br/>Ofrecemos clases para todos los niveles y proveemos los equipos necesarios, desde peques hasta adultos.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://apsurf.com/wp-content/uploads/2022/06/cropped-logo-2022-ap.png
+external-image: false
+picture: assets/images/logo.png
 
 url: https://vmrodriguez90.github.io/ap-surf
 permalink: /:title/
@@ -23,7 +24,7 @@ permalink: /:title/
 # if you don't have any of social below, comment the line
 facebook: apsurftrips
 # twitter:
-instagram: apsurftrips
+instagram: escueladesurf.ap
 # pinterest:
 # linkedin: johndoe
 # youtube: 
